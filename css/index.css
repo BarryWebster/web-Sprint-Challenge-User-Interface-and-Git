@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5 {
 
 p {
     line-height: 1.4;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 
 .header {
@@ -107,7 +107,7 @@ p {
     width: 48%;
     padding: 0 1%;
     padding-top: 20px;
-    padding-bottom: 20px; 
+    padding-bottom: 1px; 
     border-bottom: 1px dashed black;
 }
 
@@ -311,8 +311,6 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
-
-/*--About.html Section Additions--*/
 
 h3{
     border: 2px black solid;

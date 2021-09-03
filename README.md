@@ -32,9 +32,12 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
 
+
+
+
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-First, what does HTML stand for? HTML stands for “hypertext markup language". HTML is a computer language that is used to format or graphically display content on a computer. Semantic HTML is HTML that's function or content is obvious by it's name.
+First, what does HTML stand for? HTML stands for “hypertext markup language". HTML is a computer language that is used to format or graphically display content on a computer. When something is "semantic", that means something relates to it's meaning in language. Therefore, Semantic HTML is HTML language that's function or content is obvious by it's name.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
@@ -57,7 +60,10 @@ The cross-axis.
 
 5. Explain why git is valuable to a team of developers.
 
-Because it allows a team of developers to keep track of each other's progress.
+Git is valuable to a team of developers because it keeps track of changes in any given project and can be viewed by everyone in the team.
+
+
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
