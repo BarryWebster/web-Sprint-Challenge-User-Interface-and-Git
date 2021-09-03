@@ -58,12 +58,14 @@ html, body {
 
 h1, h2, h3, h4, h5 {
     font-size: 18px;
+    margin-top: 5%;
     margin-bottom: 15px;
     font-family: 'Rubik', sans-serif;
 }
 
 p {
     line-height: 1.4;
+    margin-bottom: 15px;
 }
 
 .header {
@@ -96,7 +98,7 @@ p {
 .top-content {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
 }
@@ -105,7 +107,7 @@ p {
     width: 48%;
     padding: 0 1%;
     padding-top: 20px;
-    padding-bottom: 20px;  
+    padding-bottom: 20px; 
 }
 
 .middle-content {
@@ -269,3 +271,14 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/*--About.html Section Additions--*/
+
+h3{
+    border: 2px black solid;
+    display: inline-block;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
