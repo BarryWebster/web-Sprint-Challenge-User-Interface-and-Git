@@ -100,7 +100,7 @@ p {
     flex-wrap: wrap;
     justify-content: flex-start;
     margin-bottom: 20px;
-    border-bottom: 1px dashed black;
+    
 }
 
 .top-content .text-container {
@@ -108,6 +108,46 @@ p {
     padding: 0 1%;
     padding-top: 20px;
     padding-bottom: 20px; 
+    border-bottom: 1px dashed black;
+}
+
+.top-content .text-container-about {
+    
+    border-bottom: 1px dashed black;
+}
+
+.top-content .text-container-strategy {
+    width: 48%;
+    padding: 0 1%;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    border-bottom: 1px dashed black;
+    margin-right: 30px;
+}
+
+.top-content .text-container-how {
+    width: 48%;
+    padding: 0 1%;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    border-bottom: 1px dashed black;
+}
+
+.top-content .text-container-places {
+    width: 48%;
+    padding: 0 1%;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    border-bottom: 1px dashed black;
+    margin-right: 30px;
+}
+
+.top-content .text-container-collab {
+    width: 48%;
+    padding: 0 1%;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+    border-bottom: 1px dashed black;
 }
 
 .middle-content {
