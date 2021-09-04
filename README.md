@@ -34,10 +34,11 @@ Edit this document to include your answers after each question. Make sure to lea
 
 
 
-
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
 First, what does HTML stand for? HTML stands for “hypertext markup language". HTML is a computer language that is used to format or graphically display content on a computer. When something is "semantic", that means something relates to it's meaning in language. Therefore, Semantic HTML is HTML language that's function or content is obvious by it's name.
+
+
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
@@ -48,9 +49,12 @@ Difference 2:
 An inline element only takes as much width as necessary. Multiple inline elements can exist on the same line if there’s space.  A block element fills the entire line from left to right taking up the entire width of the page if the width is not specified.
 
 
+
 3. What are the 4 areas of the box model?
 
 Content, Padding, Border and Margin.
+
+
 
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
@@ -58,9 +62,12 @@ Content, Padding, Border and Margin.
 The cross-axis.
 
 
+
 5. Explain why git is valuable to a team of developers.
 
 Git is valuable to a team of developers because it keeps track of changes in any given project and can be viewed by everyone in the team.
+
+
 
 
 
